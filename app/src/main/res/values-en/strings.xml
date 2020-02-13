@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PastoApi</string>
+    <string name="University">University of Nariño</string>
+    <string name="about">About</string>
+    <string name="eventos">Events</string>
+    <string name="home">Home</string>
+    <string name="hoteles">Hotels</string>
+    <string name="realizado_por">Made by</string>
+    <string name="restaurantes">Restaurants</string>
+</resources>

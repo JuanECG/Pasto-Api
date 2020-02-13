@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PastoApi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="realizado_por">Realizado por</string>
+    <string name="juan_esteban_castro_guerrero" translatable="false">Juan Esteban Castro Guerrero</string>
+    <string name="code" translatable="false">216034052</string>
+    <string name="University">Universidad de nariño</string>
+    <string name="home">Home</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="eventos">Eventos</string>
+    <string name="about">Sobre</string>
+</resources>

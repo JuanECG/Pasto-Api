@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAFFFFFF"
+    tools:context=".AboutFragment">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="112dp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/iconop"
+        android:layout_marginTop="100dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="243dp"
+        android:text="@string/realizado_por"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="286dp"
+        android:text="@string/juan_esteban_castro_guerrero"
+        android:textAlignment="center"
+        app:fontFamily="monospace"
+        tools:ignore="UnknownId" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="328dp"
+        android:text="@string/code"
+        android:textAlignment="center"
+        app:fontFamily="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="361dp"
+        android:text="@string/University"
+        android:textAlignment="center"
+        app:fontFamily="monospace" />
+
+
+</RelativeLayout>

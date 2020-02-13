@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/casa"
+        />
+    <item
+        android:id="@+id/hotel"
+        android:title="@string/hoteles"
+        android:icon="@drawable/hotelico"
+        />
+    <item
+        android:id="@+id/restaurantes"
+        android:title="@string/restaurantes"
+        android:icon="@drawable/restauranteico"
+        />
+    <item
+        android:id="@+id/eventos"
+        android:title="@string/eventos"
+        android:icon="@drawable/eventoico"
+        />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/about"
+        />
+
+
+</menu>
